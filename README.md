@@ -4,7 +4,7 @@
   </picture>
 </div>
 
-## Hi, I'm Dilshan👋
+<h1 align="center">Hi 👋, I'm Dilshan Perera</h1>
 <div align="center">
   ## 🐍 A Snake Eating my Contributions Graph
 	
