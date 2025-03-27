@@ -1,5 +1,10 @@
+<div align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" alt="About Me">
+  </picture>
+</div>
 
-## Hi there 👋
+## Hi, I'm Dilshan👋
 <div align="center">
   ## 🐍 A Snake Eating my Contributions Graph
 	
