@@ -11,6 +11,7 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?Thanu123456=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thanu123456&show_icons=true&locale=en&layout=compact" alt="Thanu123456" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thanu123456&" alt="Thanu123456" /></p>
 0 commit commentsComments0
