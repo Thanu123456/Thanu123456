@@ -16,6 +16,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thanu123456" alt="Thanu123456" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thanu123456&show_icons=true&locale=en&layout=compact" alt="Thanu123456" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thanu123456&" alt="Thanu123456" /></p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,babel,bootstrap,c,cs,cloudflare,css,discord,dotnet,eclipse,express,figma,firebase,git,github,gmail,html,idea,java,js,jquery,linkedin,materialui,mongodb,mysql,nextjs,nodejs,php,postman,powershell,py,react,redux,sass,stackoverflow,tailwind,vercel,visualstudio,vite,xd,vscode&perline=14" />
+  </a>
+</p>
 0 commit commentsComments0
 </div>
 <!--
