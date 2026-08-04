@@ -19,48 +19,45 @@
 - ⚙️ **Focus areas:** POS systems, cloud sync architectures, full-stack web & mobile
 <br/>
 
-## 🛠️ Languages & Tools
+## 🤖 AI Exploration
 
 <div align="center">
 
+Currently diving into **LLM fine-tuning** and **agentic AI systems** — recent work includes fine-tuning Qwen2.5 Coder with Unsloth, and building a CrewAI + FastAPI Context-as-a-Service pipeline.
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+
+</div>
+<br/>
+
+## 🛠️ Languages & Tools
+<div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=4DA3FF&center=true&vCenter=true&width=700&lines=C%23+%7C+Go+%7C+PHP+%7C+JavaScript+%7C+Python;React+%7C+React+Native+%7C+.NET+%7C+Node.js;MySQL+%7C+PostgreSQL+%7C+TiDB+Cloud" alt="Tech Stack Ticker" />
 </a>
-
 <br/><br/>
-
 <img src="https://skillicons.dev/icons?i=bash,babel,bootstrap,c,cs,cloudflare,css,discord,dotnet,eclipse,express,figma,firebase,git,github,gmail,html,idea,java,js,jquery,linkedin,materialui,mongodb,mysql,nextjs,nodejs,php,postman,powershell,py,react,redux,sass,stackoverflow,tailwind,vercel,visualstudio,vite,xd,vscode&perline=10" />
-
 </div>
 <br/>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api?username=Thanu123456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=1800" />
-<img height="165" src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api/top-langs/?username=Thanu123456&layout=donut&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" />
-
-</div>
-<br/>
-
-## 📌 Pinned Work
-
-<div align="center">
-<img src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api/pin/?username=Thanu123456&repo=FlowPOS&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanu123456&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+<img width="100%" src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api?username=Thanu123456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&line_height=32&text_bold=true&cache_seconds=1800" />
+</td>
+<td valign="top" width="50%">
+<img width="100%" src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api/top-langs/?username=Thanu123456&layout=donut&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" />
+</td>
+</tr>
+</table>
 <br/>
 
 ## ⭐ Highlights
-
 <div align="center">
 <img src="https://img.shields.io/badge/Repositories-47-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-POS%20%7C%20AI%20%7C%20Web-4da3ff?style=for-the-badge&logo=react&logoColor=white" />
