@@ -1,75 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DD5FA&height=200&section=header&text=Hi%20There,%20I'm%20Dilshan%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DD5FA&height=180&section=header&text=Dilshan%20Perera&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CEO%20%26%20Founder%20@%20E%20Scope%20International&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=CEO+%26+Founder;E+Scope+International+Pvt+Ltd;Building+Scalable+Software+Solutions;Currently+Exploring+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Scalable+Software+Solutions;Full-Stack+%7C+POS+Systems+%7C+AI-Driven+Platforms;Currently+Exploring+AI+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Thanu123456&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Thanu123456?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Thanu123456&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" height="28"/>
+<img src="https://img.shields.io/github/followers/Thanu123456?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" height="28"/>
 
 </div>
 
----
+<br/>
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm **Dilshan Perera**, CEO & Founder of **E Scope International Pvt Ltd** — a software company building modern, scalable digital products.
+- 🏢 **CEO & Founder** @ [E Scope International Pvt Ltd](https://escopeinternational.com) — building modern, scalable digital products
+- 💼 **Background:** Previously Admin at DIOR, Dubai Mall
+- 🌱 **Currently exploring:** AI & LLM fine-tuning
+- 💬 **Ask me about:** software development, tech consulting, product building
+- ⚙️ **Focus areas:** POS systems, cloud sync architectures, full-stack web & mobile
 
-- 🏢 CEO & Founder @ **E Scope International Pvt Ltd**
-- 💼 Previous Experience: **Admin at DIOR, Dubai Mall**
-- 🌱 Currently learning **AI**
-- 💬 Ask me about **software development, tech consulting, or product building**
-- 📫 How to reach me: **...**
+<br/>
 
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,babel,bootstrap,c,cs,cloudflare,css,discord,dotnet,eclipse,express,figma,firebase,git,github,gmail,html,idea,java,js,jquery,linkedin,materialui,mongodb,mysql,nextjs,nodejs,php,postman,powershell,py,react,redux,sass,stackoverflow,tailwind,vercel,visualstudio,vite,xd,vscode&perline=10" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Languages & Tools
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Thanu123456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thanu123456&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=bash,babel,bootstrap,c,cs,cloudflare,css,discord,dotnet,eclipse,express,figma,firebase,git,github,gmail,html,idea,java,js,jquery,linkedin,materialui,mongodb,mysql,nextjs,nodejs,php,postman,powershell,py,react,redux,sass,stackoverflow,tailwind,vercel,visualstudio,vite,xd,vscode&perline=10" />
 </div>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Thanu123456&theme=tokyonight&hide_border=true" alt="Thanu123456's streak stats" />
+
+<img height="165" src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api?username=Thanu123456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="165" src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api/top-langs/?username=Thanu123456&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Thanu123456&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Thanu123456's streak stats" />
+
 </div>
+
+<br/>
+
+## 🏆 Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-winning.vercel.app/?username=Thanu123456&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=Thanu123456&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
 
----
+<br/>
 
-### 🐍 Contribution Snake
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" />
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanu123456&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
 
----
+<br/>
 
-### 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DD5FA&height=120&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:0e75b6&height=100&section=footer" />
+</div>
