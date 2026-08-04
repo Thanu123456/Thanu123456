@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DD5FA&height=180&section=header" width="100%"/>
 <h1>Dilshan Perera</h1>
-<p><strong>CEO &amp; Founder</strong> — E Scope International Pvt Ltd</p>
+<p><strong>CEO &amp; Founder</strong> — Escope International (Pvt) Ltd</p>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Scalable+Software+Solutions;Full-Stack+%7C+POS+Systems+%7C+AI-Driven+Platforms;Currently+Exploring+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Scalable+Software+Solutions;Full-Stack+Development+%7C+POS+Systems+%7C+AI-Driven+Platforms;Currently+Exploring+Applied+AI" alt="Typing SVG" />
 </a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Thanu123456&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" height="28"/>
@@ -11,19 +11,22 @@
 </div>
 <br/>
 
-## 🧑‍💻 About Me
-- 🏢 **CEO & Founder** @ [E Scope International Pvt Ltd](https://escopeinternational.com) — building modern, scalable digital products
-- 💼 **Background:** Previously Admin at DIOR, Dubai Mall
-- 🌱 **Currently exploring:** AI & LLM fine-tuning
-- 💬 **Ask me about:** software development, tech consulting, product building
-- ⚙️ **Focus areas:** POS systems, cloud sync architectures, full-stack web & mobile
+## About
+
+I'm the CEO and Founder of [Escope International](https://escopeinternational.com), a Sri Lanka–based software company building business management systems, AI-driven platforms, and smart agriculture solutions. My work spans full-stack development, POS system architecture, cloud sync infrastructure, and product design across web, desktop, and mobile.
+
+- 🏢 **Leading** Escope International — from product architecture to delivery
+- ⚙️ **Core focus:** POS systems, cloud sync architectures, full-stack web & mobile development
+- 🌱 **Currently exploring:** LLM fine-tuning and agentic AI systems
+- 💬 **Open to discussing:** software development, technical consulting, and product strategy
+
 <br/>
 
-## 🤖 AI Exploration
+## Applied AI Work
+
+Recent work in AI includes fine-tuning Qwen2.5 Coder using Unsloth, and building a Context-as-a-Service pipeline with CrewAI and FastAPI.
 
 <div align="center">
-
-Currently diving into **LLM fine-tuning** and **agentic AI systems** — recent work includes fine-tuning Qwen2.5 Coder with Unsloth, and building a CrewAI + FastAPI Context-as-a-Service pipeline.
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -34,7 +37,8 @@ Currently diving into **LLM fine-tuning** and **agentic AI systems** — recent 
 </div>
 <br/>
 
-## 🛠️ Languages & Tools
+## Languages & Tools
+
 <div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=4DA3FF&center=true&vCenter=true&width=700&lines=C%23+%7C+Go+%7C+PHP+%7C+JavaScript+%7C+Python;React+%7C+React+Native+%7C+.NET+%7C+Node.js;MySQL+%7C+PostgreSQL+%7C+TiDB+Cloud" alt="Tech Stack Ticker" />
@@ -44,7 +48,8 @@ Currently diving into **LLM fine-tuning** and **agentic AI systems** — recent 
 </div>
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
+
 <table align="center">
 <tr>
 <td valign="top" width="50%">
@@ -57,7 +62,8 @@ Currently diving into **LLM fine-tuning** and **agentic AI systems** — recent 
 </table>
 <br/>
 
-## ⭐ Highlights
+## Highlights
+
 <div align="center">
 <img src="https://img.shields.io/badge/Repositories-47-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-POS%20%7C%20AI%20%7C%20Web-4da3ff?style=for-the-badge&logo=react&logoColor=white" />
