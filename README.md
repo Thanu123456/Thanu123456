@@ -1,42 +1,75 @@
 <div align="center">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" alt="About Me">
-  </picture>
-</div>
 
-<h1 align="center">Hi 👋, I'm Dilshan Perera</h1>
-<div align="center">
-  ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DD5FA&height=200&section=header&text=Hi%20There,%20I'm%20Dilshan%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=CEO+%26+Founder;E+Scope+International+Pvt+Ltd;Building+Scalable+Software+Solutions;Currently+Exploring+AI+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Thanu123456&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Thanu123456?label=Followers&style=flat&color=0e75b6" alt="Followers" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thanu123456&label=Profile%20views&color=0e75b6&style=flat" alt="Thanu123456" /> </p>
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thanu123456" alt="Thanu123456" /></a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thanu123456&show_icons=true&locale=en&layout=compact" alt="Thanu123456" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thanu123456&" alt="Thanu123456" /></p>
+### 🧑‍💻 About Me
 
-<h3 align="center">Languages and Tools:</h3>
+I'm **Dilshan Perera**, CEO & Founder of **E Scope International Pvt Ltd** — a software company building modern, scalable digital products.
+
+- 🏢 CEO & Founder @ **E Scope International Pvt Ltd**
+- 💼 Previous Experience: **Admin at DIOR, Dubai Mall**
+- 🌱 Currently learning **AI**
+- 💬 Ask me about **software development, tech consulting, or product building**
+- 📫 How to reach me: **...**
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,babel,bootstrap,c,cs,cloudflare,css,discord,dotnet,eclipse,express,figma,firebase,git,github,gmail,html,idea,java,js,jquery,linkedin,materialui,mongodb,mysql,nextjs,nodejs,php,postman,powershell,py,react,redux,sass,stackoverflow,tailwind,vercel,visualstudio,vite,xd,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bash,babel,bootstrap,c,cs,cloudflare,css,discord,dotnet,eclipse,express,figma,firebase,git,github,gmail,html,idea,java,js,jquery,linkedin,materialui,mongodb,mysql,nextjs,nodejs,php,postman,powershell,py,react,redux,sass,stackoverflow,tailwind,vercel,visualstudio,vite,xd,vscode&perline=10" />
   </a>
 </p>
-0 commit commentsComments0
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Thanu123456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thanu123456&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-<!--
-**Thanu123456/Thanu123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Thanu123456&theme=tokyonight&hide_border=true" alt="Thanu123456's streak stats" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-winning.vercel.app/?username=Thanu123456&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+  </a>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:0e75b6&height=100&section=footer" />
