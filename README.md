@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DD5FA&height=180&section=header&text=Dilshan%20Perera&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CEO%20%26%20Founder%20@%20E%20Scope%20International&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/header-wave.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Scalable+Software+Solutions;Full-Stack+%7C+POS+Systems+%7C+AI-Driven+Platforms;Currently+Exploring+AI+%F0%9F%9A%80" alt="Typing SVG" />
@@ -40,18 +40,6 @@
 <img height="165" src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api?username=Thanu123456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 <img height="165" src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api/top-langs/?username=Thanu123456&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Thanu123456&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Thanu123456's streak stats" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Thanu123456&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
 
 <br/>
@@ -64,8 +52,20 @@
 
 <br/>
 
+## ⭐ Highlights
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DD5FA&height=120&section=footer" width="100%"/>
+<img src="https://img.shields.io/badge/Repositories-47-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-POS%20%7C%20AI%20%7C%20Web-4da3ff?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-071428?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/footer-wave.svg" width="100%"/>
 
 </div>
