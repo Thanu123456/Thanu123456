@@ -3,7 +3,7 @@
 <h1>Dilshan Perera</h1>
 <p><strong>CEO &amp; Founder</strong> — Escope International (Pvt) Ltd</p>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Scalable+Software+Solutions;Full-Stack+Development+%7C+POS+Systems+%7C+AI-Driven+Platforms;Currently+Exploring+Applied+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Building+Scalable+Software+Solutions;%20%20Full-Stack+Development+%7C+POS+Systems+%7C+AI-Driven+Platforms;Currently+Exploring+Applied+AI" alt="Typing SVG" />
 </a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Thanu123456&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" height="28"/>
@@ -30,6 +30,8 @@ Recent work in AI includes fine-tuning Qwen2.5 Coder using Unsloth, and building
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
@@ -57,6 +59,11 @@ Recent work in AI includes fine-tuning Qwen2.5 Coder using Unsloth, and building
 </td>
 <td valign="top" width="50%">
 <img width="100%" src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api/top-langs/?username=Thanu123456&layout=donut&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=Thanu123456&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </td>
 </tr>
 </table>
