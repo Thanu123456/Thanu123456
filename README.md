@@ -61,11 +61,6 @@ Recent work in AI includes fine-tuning Qwen2.5 Coder using Unsloth, and building
 <img width="100%" src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api/top-langs/?username=Thanu123456&layout=donut&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" />
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=Thanu123456&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</td>
-</tr>
 </table>
 <br/>
 
