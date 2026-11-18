@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1f8fd1,100:6DD5FA&height=130&section=header&animation=fadeIn" width="100%" alt=""/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=44&duration=2500&pause=100000&color=4DA3FF&center=true&vCenter=true&width=700&height=70&lines=Dilshan+Perera" alt="Dilshan Perera" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6DD5FA&center=true&vCenter=true&width=800&height=40&lines=CEO+and+Founder+%7C+E+Scope+International+Pvt+Ltd;Building+Scalable+Software+Solutions;Full-Stack+%7C+POS+Systems+%7C+Cloud+Sync;AI-Driven+Platforms+%7C+Smart+Agriculture;Exploring+LLM+Fine-Tuning+and+Agentic+AI" alt="CEO and Founder, E Scope International (Pvt) Ltd" />
+<img src="https://raw.githubusercontent.com/Thanu123456/Thanu123456/main/assets/hero.svg" width="100%" alt="Dilshan Perera - CEO and Founder, E Scope International (Pvt) Ltd"/>
 
 <br/>
 
@@ -17,17 +13,15 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6DD5FA&height=2&section=header" width="100%" alt=""/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=100000&color=4DA3FF&vCenter=true&width=500&height=45&lines=%F0%9F%91%8B+About+Me" alt="About Me" />
 
 I'm the CEO and Founder of [E Scope International (Pvt) Ltd](https://escopeinternational.com), a Sri Lanka–based software company building business management systems, AI-driven platforms, and smart agriculture solutions. I still build hands-on: full-stack development, POS architecture, cloud sync infrastructure, and product design across web, desktop, and mobile.
 
-- 🏢 **Leading** E Scope International, from product architecture to delivery
-- ⚙️ **Core focus:** POS systems, cloud sync architectures, full-stack web and mobile
-- 🌱 **Exploring:** LLM fine-tuning and agentic AI systems
-- 💬 **Open to talk about:** software development, technical consulting, product strategy
-- 📍 **Based in** Sri Lanka
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Thanu123456/Thanu123456/main/assets/terminal.svg" width="100%" alt="Terminal card: focus on POS systems, cloud sync and full-stack development; exploring LLM fine-tuning and agentic AI; based in Sri Lanka; open to consulting and collaboration"/>
+
+</div>
 
 <br/>
 
@@ -53,9 +47,7 @@ Recent work includes fine-tuning **Qwen2.5 Coder** with Unsloth and building a *
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=600&color=4DA3FF&center=true&vCenter=true&width=700&height=35&lines=C%23+%7C+Go+%7C+Rust+%7C+TypeScript+%7C+PHP+%7C+Python;React+%7C+React+Native+%7C+.NET+%7C+Node.js;MySQL+%7C+PostgreSQL+%7C+TiDB+Cloud" alt="Tech stack ticker" />
-</a>
+<img src="https://raw.githubusercontent.com/Thanu123456/Thanu123456/main/assets/marquee.svg" width="100%" alt="Technologies: C#, Go, Rust, TypeScript, JavaScript, PHP, Python, React, React Native, .NET, Node.js, PostgreSQL, MySQL, TiDB Cloud, WordPress, Firebase, Tailwind CSS"/>
 
 <br/>
 
