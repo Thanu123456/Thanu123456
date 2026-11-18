@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="Let's build something great together. Open to consulting and collaboration.">
+<defs><clipPath id="cd"><rect width="1000" height="170" rx="12"/></clipPath><pattern id="sl" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" opacity="0.22"/></pattern>
+<clipPath id="ty"><rect x="0" y="78" width="0" height="30"><animate attributeName="width" values="0;1000;1000" keyTimes="0;.25;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+<filter id="glow" x="-10%" y="-100%" width="120%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g clip-path="url(#cd)"><rect width="1000" height="170" fill="#020a05"/>
+<path d="M0 44H110l10 0 8-26 10 52 8-34 8 8 6 0H360l10 0 8-26 10 52 8-34 8 8 6 0H610l10 0 8-26 10 52 8-34 8 8 6 0H860l10 0 8-26 10 52 8-34 8 8 6 0H1000" fill="none" stroke="#0f3d1c" stroke-width="2"/>
+<path d="M0 44H110l10 0 8-26 10 52 8-34 8 8 6 0H360l10 0 8-26 10 52 8-34 8 8 6 0H610l10 0 8-26 10 52 8-34 8 8 6 0H860l10 0 8-26 10 52 8-34 8 8 6 0H1000" pathLength="1000" fill="none" stroke="#00ff41" stroke-width="2.5" stroke-dasharray="90 910" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="90;-1000" dur="3.5s" repeatCount="indefinite"/></path>
+<text x="500" y="100" text-anchor="middle" font-family="Consolas,'SF Mono',Menlo,'Courier New',monospace" font-size="20" fill="#00ff41" clip-path="url(#ty)">root@escope:~# echo "Let's build something great together"</text>
+<text x="500" y="128" text-anchor="middle" font-family="Consolas,'SF Mono',Menlo,'Courier New',monospace" font-size="14" fill="#7ee787">open to consulting and collaboration  |  info@escopeinternational.com</text>
+<text x="500" y="154" text-anchor="middle" font-family="Consolas,'SF Mono',Menlo,'Courier New',monospace" font-size="12" fill="#2f9e57">(c) E Scope International (Pvt) Ltd  |  Sri Lanka</text>
+<rect width="1000" height="170" fill="url(#sl)"/></g>
+<rect x=".5" y=".5" width="999" height="169" rx="12" fill="none" stroke="#00ff41" stroke-opacity=".5"/>
+</svg>
